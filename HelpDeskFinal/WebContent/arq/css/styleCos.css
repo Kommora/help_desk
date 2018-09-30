@@ -1,0 +1,10 @@
+#backgroudRegister{
+   background-image: url("../img/11.png");
+   background-repeat: repeat;
+}
+#logoHD{
+    color: #ffffff;
+    font-family: "Arial";
+    font-size: 46px;
+    text-shadow: 2px 2px 4px #000000;
+}
